@@ -15,7 +15,7 @@ Hello! My name is Stanley. I am a final year Computer Engineering student with s
 
 •	Database: MongoDB, SQLite3, PostgreSQL
 
-•	Machine Learning & CV: PyTorch, YOLOv5, OpenCV, Scikit-Learn
+•	Machine Learning: PyTorch, YOLOv5, OpenCV, Scikit-Learn
 
 •	FPGA & Hardware: Vitis, Vivado, Verilog/VHDL, Arduino
 
