@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me 👋
+
+Hello! My name is Stanley. I am a final year Computer Engineering student with specialisation in IoT and minor in AI. I'm interested in building products or projects with software and/or hardware.
 
 <!--
 **StanleyW00/StanleyW00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
