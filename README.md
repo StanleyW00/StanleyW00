@@ -2,6 +2,9 @@
 
 Hello! My name is Stanley. I am a final year Computer Engineering student with specialisation in IoT and minor in AI. I'm interested in building products or projects with software and/or hardware.
 
+<div align="center">
+  <img src="box.gif" width="200" alt="Portifolio Gif">
+</div>
 <!--
 **StanleyW00/StanleyW00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
