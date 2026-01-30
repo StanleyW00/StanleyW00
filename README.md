@@ -5,17 +5,42 @@ Hello! My name is Stanley. I am a final year Computer Engineering student with s
 <div align="center">
   <img src="box.gif" width="200" alt="Portifolio Gif">
 </div>
-<!--
-**StanleyW00/StanleyW00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+•	Programming Language: C, C++, Java, JavaScript, TypeScript, Python, Ruby
+
+•	Framework and Libraries: React, NextJS, Prisma (MongoDB), Django, Tailwind, NodeJS, React-PDF, NumPy, Pandas
+
+•	Database: MongoDB, SQLite3, PostgreSQL
+
+•	Machine Learning & CV: PyTorch, YOLOv5, OpenCV, Scikit-Learn
+
+•	FPGA & Hardware: Vitis, Vivado, Verilog/VHDL, Arduino
+
+---
+
+### Featured Projects
+
+#### 🎮 Ricky's Permission
+
+[View on GitHub](https://github.com/fabreyns/Shock-Awe)
+
+#
+
+#### 🤖 UGLL-E
+
+[View on GitHub](https://github.com/worldoez/cs3237project.git)
+
+#
+
+#### 🎵 ZhAudio
+
+[View on GitHub](https://github.com/StanleyW00/ZhAudio)
+
+#
+
+#### 📊 MLBB.FYI
+
+[View on GitHub](https://github.com/troll-org/mlbb.fyi) • [Live Demo](https://mlbb-fyi.vercel.app)
