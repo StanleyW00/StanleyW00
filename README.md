@@ -31,7 +31,7 @@ An anti-procrastination web app that detects whether user using a phone or visit
 
 #
 
-#### UGLL-E
+#### Followbot
 
 A bot that can carry your groceries and follow you based on an April Tag.
 
