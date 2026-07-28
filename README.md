@@ -9,15 +9,15 @@ Hello! My name is Stanley. I am a final year Computer Engineering student with s
 ---
 
 ### Technical Skills
-•	Programming Language: C, C++, Java, JavaScript, TypeScript, HTML, CSS, Python
+• Programming Language: C, C++, Java, JavaScript, TypeScript, HTML, CSS, Python
 
-•	Framework and Libraries: React,  React Native, NodeJS, NextJS, Prisma (MongoDB), Django, Tailwind, React-PDF, NumPy, Pandas
+• Framework and Libraries: React, React Native, NodeJS, NextJS, Prisma (MongoDB), Django, Tailwind
 
-•	Database: MongoDB, SQLite3, PostgreSQL, Redis
+• Database: MongoDB, SQLite3, PostgreSQL, Redis
 
-•	Machine Learning: PyTorch, YOLOv5, OpenCV, Scikit-Learn
+• Machine Learning: PyTorch, YOLO, OpenCV, Scikit-Learn
 
-•	FPGA & Hardware: Vitis, Vivado, Verilog/VHDL, Arduino
+• FPGA & Hardware: Vitis HLS, Vivado, Verilog/VHDL, Arduino, CMOS, MOSFETs, DRAM, BRAM
 
 ---
 
