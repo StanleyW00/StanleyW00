@@ -23,6 +23,14 @@ Hello! My name is Stanley. I am a final year Computer Engineering student with s
 
 ### Featured Projects
 
+#### Lango
+
+A one-handed ASL learning platform featuring a sensor-equipped glove, real-time AI recognition powered by Ultra96 V2 FPGA board, and an intuitive web application.
+
+[View on GitHub](https://github.com/StanleyW00/Lango)
+
+#
+
 #### Ricky's Permission
 
 An anti-procrastination web app that detects whether user using a phone or visiting unauthorised websites.
